@@ -40,7 +40,7 @@ outputs = ["Reveal"]
 
 ## DevOps
 
-![DevOps Infinity Loop](images/devops_loop.png)
+<img src="images/devops_loop.png" height="500">
 
 <sup><sup>[image credits](https://medium.com/@mainakdutta76/before-and-after-of-devops-a-peek-into-agile-devops-3600c26129ac)</sup></sup>
 
@@ -50,19 +50,15 @@ outputs = ["Reveal"]
 
 DevOps is the combination of **cultural philosophies, practices, and tools** that increases an organization’s ability to **deliver applications and services at high velocity**: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market.
 
-<sup><sup>
-<https://aws.amazon.com/devops/what-is-devops/>
-</sup></sup>
+<sup><sup><https://aws.amazon.com/devops/what-is-devops/></sup></sup>
 
 ---
 
 ### DevOps Compared
 
-<img src=images/devops_compared.png height=490>
+<img src="images/devops_compared.png" height="500">
 
-<sup><sup>
-[image credits](https://dzone.com/articles/continuous-delivery-a-step-up-from-continuous-inte)
-</sup></sup>
+<sup><sup>[image credits](https://dzone.com/articles/continuous-delivery-a-step-up-from-continuous-inte)</sup></sup>
 
 ---
 
@@ -86,9 +82,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 > "No matter how it looks at first, it's always a people problem." -- Gerald Weinberg
 
-<sup><sup>
-[The Secrets of Consulting](https://www.amazon.com/-/dp/0932633013/)
-</sup></sup>
+<sup><sup>[The Secrets of Consulting](https://www.amazon.com/-/dp/0932633013/)</sup></sup>
 
 ---
 
@@ -96,9 +90,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 > "If it hurts, do it more often, and bring the pain forward." -- Jez Humble
 
-<sup><sup>
-<https://continuousdelivery.com>
-</sup></sup>
+<sup><sup><https://continuousdelivery.com></sup></sup>
 
 ---
 
@@ -106,9 +98,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 > "Automate everything and make those parts that can't be automated a self-service." -- Gregor Hohpe
 
-<sup><sup>
-[Gregor's Ramblings](https://www.enterpriseintegrationpatterns.com/ramblings/90_softwareeatstheworld.html)
-</sup></sup>
+<sup><sup>[Gregor's Ramblings](https://www.enterpriseintegrationpatterns.com/ramblings/90_softwareeatstheworld.html)</sup></sup>
 
 ---
 
@@ -116,19 +106,15 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 > "Hire the people who will automate themselves out of a job, then just keep giving them jobs." -- Jezzie Frazelle
 
-<sup><sup>
-<https://twitter.com/jessfraz/status/942031487809085440>
-</sup></sup>
+<sup><sup><https://twitter.com/jessfraz/status/942031487809085440></sup></sup>
 
 ---
 
 ### Internet Unicorn #1: Spotify
 
-<img src="images/spotify_model.png" heigth="700">
+<img src="images/spotify_model.png" height="500">
 
-<sup><sup>
-[image credits](https://agilescrumgroup.de/spotify-modell/)
-</sup></sup>
+<sup><sup>[image credits](https://agilescrumgroup.de/spotify-modell/)</sup></sup>
 
 ---
 
@@ -144,7 +130,9 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ### Corporates
 
-![SAFe](images/safe.png)
+<img src="images/safe.png" height="500">
+
+<sup><sup><https://www.scaledagileframework.com></sup></sup>
 
 {{% /section %}}
 
@@ -158,11 +146,9 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ### Microservices
 
-![Microservices](images/microservices.png)
+<img src="images/microservices.png" height="500">
 
-<sup><sup>
-[image credits](https://www.redhat.com/en/topics/microservices/what-are-microservices)
-</sup></sup>
+<sup><sup>[image credits](https://www.redhat.com/en/topics/microservices/what-are-microservices)</sup></sup>
 
 ---
 
@@ -186,9 +172,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 5. Separate **build and run** stages
 6. Execute app as **stateless** processes
 
-<sup><sup>
-<https://12factor.net/>
-</sup></sup>
+<sup><sup><https://12factor.net></sup></sup>
 
 ---
 
@@ -201,19 +185,15 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 11. Treat **logs** as events treams
 12. **Admin processes** as one-off processes
 
-<sup><sup>
-<https://12factor.net/>
-</sup></sup>
+<sup><sup><https://12factor.net></sup></sup>
 
 ---
 
 ### Continuous Integration
 
-![Continuous Integration](images/continuous_integration.jpg)
+<img src="images/continuous_integration.jpg" height="500">
 
-<sup><sup>
-[image credits](https://geekflare.com/understanding-ci-cd/)
-</sup></sup>
+<sup><sup>[image credits](https://geekflare.com/understanding-ci-cd/)</sup></sup>
 
 ---
 
@@ -223,19 +203,15 @@ Continuous Integration (CI) is a development practice that requires developers t
 
 By integrating regularly, you can detect errors quickly, and locate them more easily
 
-<sup><sup>
-<https://www.thoughtworks.com/continuous-integration>
-</sup></sup>
+<sup><sup><https://www.thoughtworks.com/continuous-integration></sup></sup>
 
 ---
 
 ### Continuous Delivery
 
-> Continuous Delivery (CD) is the ability to get changes of all types—including new features, configuration changes, bug fixes and experiments—into production, or into the hands of users, safely and quickly in a sustainable way.
+Continuous Delivery (CD) is the ability to get changes of all types—including new features, configuration changes, bug fixes and experiments—into production, or into the hands of users, safely and quickly in a sustainable way.
 
-<sup><sup>
-<https://continuousdelivery.com/>
-</sup></sup>
+<sup><sup><https://continuousdelivery.com></sup></sup>
 
 ---
 
@@ -252,11 +228,9 @@ By integrating regularly, you can detect errors quickly, and locate them more ea
 
 ### Deployment Pipeline
 
-<img src=images/deployment_pipeline.png height=490>
+<img src="images/deployment_pipeline.png" height="500">
 
-<sup><sup>
-[image credits](https://continuousdelivery.com/implementing/patterns/)
-</sup></sup>
+<sup><sup>[image credits](https://continuousdelivery.com/implementing/patterns/)</sup></sup>
 
 ---
 
@@ -271,21 +245,17 @@ By integrating regularly, you can detect errors quickly, and locate them more ea
 
 ### Continuous Deployment
 
-<img src=images/continuous_deployment.png height=490>
+<img src="images/continuous_deployment.png" height="500">
 
-<sup><sup>
-[image credits](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
-</sup></sup>
+<sup><sup>[image credits](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)</sup></sup>
 
 ---
 
 ### Infrastructure as Code
 
-<img src=images/iac_terraform.png height=490>
+<img src="images/iac_terraform.png" height="500">
 
-<sup><sup>
-[image credits](https://www.terraform.io/)
-</sup></sup>
+<sup><sup>[image credits](https://www.terraform.io/)</sup></sup>
 
 ---
 
@@ -293,9 +263,7 @@ By integrating regularly, you can detect errors quickly, and locate them more ea
 
 Infrastructure as Code (IaC) means writing code (which can be done using a high level language or any descriptive language) to manage configurations and automate provisioning of infrastructure in addition to deployments. This is not simply writing scripts, but involves using tested and proven software development practices that are already being used in application development. For example: version control, testing, small deployments, use of design patterns etc.
 
-<sup><sup>
-<https://www.thoughtworks.com/insights/blog/infrastructure-code-reason-smile>
-</sup></sup>
+<sup><sup>[Infrastructure as Code: A Reason to Smile](https://www.thoughtworks.com/insights/blog/infrastructure-code-reason-smile)</sup></sup>
 
 ---
 
@@ -326,11 +294,9 @@ Infrastructure as Code (IaC) means writing code (which can be done using a high 
 
 ### GitOps
 
-![GitOps](images/gitops_circles.png)
+<img src="images/gitops_circles.png" height="500">
 
-<sup><sup>
-[image credits](https://www.weave.works/blog/what-is-gitops-really)
-</sup></sup>
+<sup><sup>[image credits](https://www.weave.works/blog/what-is-gitops-really)</sup></sup>
 
 ---
 
@@ -347,21 +313,17 @@ Infrastructure as Code (IaC) means writing code (which can be done using a high 
 
 ### Chaos Engineering
 
-<img src="images/simianarmy.jpg" height="490">
+<img src="images/simianarmy.jpg" height="500">
 
-<sup><sup>
-<https://en.wikipedia.org/wiki/Chaos_engineering>
-</sup></sup>
+<sup><sup>[image credits](<https://en.wikipedia.org/wiki/Chaos_engineering>)</sup></sup>
 
 ---
 
-### Chaos Engineering
+### What Is Chaos Engineering?
 
 > Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.
 
-<sup><sup>
-<https://principlesofchaos.org/>
-</sup></sup>
+<sup><sup><https://principlesofchaos.org></sup></sup>
 
 {{% /section %}}
 
@@ -375,15 +337,13 @@ Infrastructure as Code (IaC) means writing code (which can be done using a high 
 
 ### Cloud Native
 
-<img src="images/cloud_native.png" height="490">
+<img src="images/cloud_native.png" height="500">
 
-<sup><sup>
-[image credits](https://learning.oreilly.com/library/view/cloud-native-transformation/9781492048893/assets/cntr_0101.png)
-</sup></sup>
+<sup><sup>[image credits](https://learning.oreilly.com/library/view/cloud-native-transformation/9781492048893/assets/cntr_0101.png)</sup></sup>
 
 ---
 
-### Cloud Native Definition 1/2
+### Cloud Native Definition (1/2)
 
 Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.
 
@@ -391,7 +351,7 @@ These techniques enable loosely coupled systems that are resilient, manageable, 
 
 ---
 
-### Cloud Native Definition 2/2
+### Cloud Native Definition (2/2)
 
 The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.
 
@@ -403,55 +363,45 @@ The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this
 
 ### Cloud Native Landscape
 
-<img src="images/cncf_landscape.png" height="490">
+<img src="images/cncf_landscape.png" height="500">
 
-<sup><sup>
-<https://landscape.cncf.io>
-</sup></sup>
+<sup><sup><https://landscape.cncf.io></sup></sup>
 
 ---
 
 ### Cloud Native Trail Map
 
-<img src="images/cncf_trail_map.png" height="490">
+<img src="images/cncf_trail_map.png" height="500">
 
-<sup><sup>
-<https://github.com/cncf/trailmap>
-</sup></sup>
+<sup><sup><https://github.com/cncf/trailmap></sup></sup>
 
 ---
 
 ## Observability
 
-<img src="images/observability.png" height="470">
+<img src="images/observability.png" height="480">
 
-<sup><sup>
-[image credits](https://peter.bourgon.org/blog/2017/02/21/metrics-tracing-and-logging.html)
-</sup></sup>
+<sup><sup>[image credits](https://peter.bourgon.org/blog/2017/02/21/metrics-tracing-and-logging.html)</sup></sup>
 
 ---
 
-## Observability
+## What Is Observability?
 
 > In control theory, observability is a measure of how well internal states of a system can be inferred by knowledge of its external outputs. The observability and controllability of a system are mathematical duals.
 
-<sup><sup>
-<https://en.wikipedia.org/wiki/Observability>
-</sup></sup>
+<sup><sup><https://en.wikipedia.org/wiki/Observability></sup></sup>
 
 ---
 
 ### Logging
 
-<img src="images/kibana.png" height="490">
+<img src="images/kibana.png" height="500">
 
-<sup><sup>
-<https://www.elastic.co/de/blog/making-kibana-accessible>
-</sup></sup>
+<sup><sup>[image credits](https://www.elastic.co/de/blog/making-kibana-accessible)</sup></sup>
 
 ---
 
-### Logging
+### What Is Logging?
 
 > A **log** is a timestamped text record, either structured (recommended) or unstructured, with metadata.
 
@@ -459,15 +409,13 @@ The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this
 
 ### Metrics
 
-<img src="images/grafana.png" height="490">
+<img src="images/grafana.png" height="500">
 
-<sup><sup>
-[image credits](https://strimzi.io/docs/master/#kafka_dashboard)
-</sup></sup>
+<sup><sup>[image credits](https://strimzi.io/docs/master/#kafka_dashboard)</sup></sup>
 
 ---
 
-### Metrics
+### What Are Metrics?
 
 > A **metric** is a measurement about a service, captured at runtime.
 
@@ -475,15 +423,13 @@ The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this
 
 ### Tracing
 
-<img src="images/kiali.webp" height="490">
+<img src="images/kiali.webp" height="500">
 
-<sup><sup>
-[image credits](https://www.magalix.com/blog/working-with-istio-track-your-services-with-kiali)
-</sup></sup>
+<sup><sup>[image credits](https://www.magalix.com/blog/working-with-istio-track-your-services-with-kiali)</sup></sup>
 
 ---
 
-### Tracing
+### What Is Tracing?
 
 > **Traces** track the progression of a single request, called a trace, as it is handled by services that make up an application.
 
@@ -491,12 +437,9 @@ The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this
 
 ### Containers (Docker)
 
-<img src="images/container_vm.png" height="370">
-<img src="images/container_docker.png" height="370">
+<img src="images/containers.png" height="500">
 
-<sup><sup>
-[image credits](https://www.docker.com/resources/what-container)
-</sup></sup>
+<sup><sup>[image credits](https://www.docker.com/resources/what-container)</sup></sup>
 
 ---
 
@@ -514,20 +457,18 @@ The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this
 
 > Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications.
 
-<sup><sup>
-<https://kubernetes.io>
-</sup></sup>
+<sup><sup><https://kubernetes.io></sup></sup>
 
 ---
 
-### Kubernetes
+### What Is Kubernetes?
 
 Kubernetes, at its basic level, is a system for running and coordinating containerized applications across a cluster of machines.
 It is a platform designed to manage the lifecycle of containerized applications and services using methods that provide predictability, scalability, and high availability.
 
 ---
 
-### K8s Deployment Strategies
+### Deployment Strategies
 
 1. Recreate
 1. Rolling Update
@@ -540,11 +481,9 @@ It is a platform designed to manage the lifecycle of containerized applications 
 
 ### Service Mesh
 
-<img src="images/service_mesh.png" height="490">
+<img src="images/service_mesh.png" height="500">
 
-<sup><sup>
-[image credits](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
-</sup></sup>
+<sup><sup>[image credits](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)</sup></sup>
 
 ---
 

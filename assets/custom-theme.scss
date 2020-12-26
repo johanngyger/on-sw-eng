@@ -1,0 +1,49 @@
+@import "reveal-js/css/theme/template/mixins";
+@import "reveal-js/css/theme/template/settings";
+
+@font-face {
+	font-family: "TTFirsNeue-Medium";
+	src: url('fonts/TTFirsNeue-Medium/font.woff2') format('woff2'), url('../fonts/TTFirsNeue-Medium/font.woff') format('woff');
+}
+@font-face {
+	font-family: "TTFirsNeue-Light";
+	src: url('fonts/TTFirsNeue-Light/font.woff2') format('woff2'), url('../fonts/TTFirsNeue-Light/font.woff') format('woff');
+}
+
+$backgroundColor: #fff;
+
+$AC-Red: #7d0f4b;
+$AC-Blue: #074761;
+$AC-Green: #36735c;
+$AC-Yellow: #d08f4c;
+$dunkelgrau: #959595;
+
+
+$mainColor: $AC-Red;
+$headingColor: $AC-Red;
+
+$mainFontSize: 44px;
+$mainFont: "TTFirsNeue-Light", sans-serif;
+$headingFont: "TTFirsNeue-Light", sans-serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: normal;
+$headingFontWeight: 600;
+$linkColor: lighten( $AC-Blue, 15% );
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+$heading1Size: 2.5em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em;
+
+section.has-dark-background {
+	&, h1, h2, h3, h4, h5, h6 {
+		color: #fff;
+	}
+}
+
+// Theme template ------------------------------
+@import "reveal-js/css/theme/template/theme";
+// ---------------------------------------------

@@ -11,4 +11,9 @@ mediaType = "text/html"
 isHTML = true
 
 [params.reveal_hugo]
-theme = "white"
+custom_theme = "custom-theme.scss"
+custom_theme_compile = true
+width = 1280
+height = 720
+margin = 0.01
+
