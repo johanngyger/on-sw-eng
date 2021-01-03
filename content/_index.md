@@ -40,7 +40,7 @@ outputs = ["Reveal"]
 
 ## DevOps
 
-<img src="images/devops_loop.png" height="500">
+<img src="images/devops_loop.png" height="470">
 
 <sup><sup>[image credits](https://medium.com/@mainakdutta76/before-and-after-of-devops-a-peek-into-agile-devops-3600c26129ac)</sup></sup>
 
@@ -128,7 +128,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ---
 
-### Corporates
+### Meanwhile in corporate land ...
 
 <img src="images/safe.png" height="500">
 
@@ -502,8 +502,8 @@ It is a platform designed to manage the lifecycle of containerized applications 
 ### whoami
 
 - Johann Gyger
-- [@johanngyger](https://twitter.com/johanngyger)
 - Passionate software engineer
+- Twitter: [@johanngyger](https://twitter.com/johanngyger)
 - Consultant at [Levingo](https://levingo.ch/)
 - Trainer at [acend](https://acend.ch/)
 - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
@@ -517,5 +517,9 @@ It is a platform designed to manage the lifecycle of containerized applications 
 - [Release It!](https://learning.oreilly.com/library/view/release-it-2nd/9781680504552/) — Design and deploy production-ready software
 - [Infrastructure as Code](https://learning.oreilly.com/library/view/infrastructure-as-code/9781098114664/) — Dynamic systems for the cloud age
 - [Building Microservices](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/) — Designing fine-grained systems
+
+---
+
+<https://github.com/johanngyger/on-sw-eng>
 
 {{% /section %}}
