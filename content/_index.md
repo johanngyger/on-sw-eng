@@ -62,6 +62,16 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ---
 
+### CA(L)MS
+
+- Culture
+- Automation
+- Measurement
+- Lean
+- Sharing
+
+---
+
 ### Pillars of DevOps
 
 - Culture & organization
@@ -102,7 +112,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ---
 
-### Automation #2
+### Automation Reloaded
 
 > "Hire the people who will automate themselves out of a job, then just keep giving them jobs." -- Jezzie Frazelle
 
@@ -110,7 +120,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ---
 
-### Internet Unicorn #1: Spotify
+### Internet Unicorn: Spotify
 
 <img src="images/spotify_model.png" height="500">
 
@@ -120,7 +130,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 {{< slide background-image="images/two_pizzas.jpg" >}}
 
-### Internet Unicorn #2: AWS
+### Internet Unicorn: AWS
 
 > "You build it, you run it" -- Werner Vogels
 
@@ -163,7 +173,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ---
 
-### Twelve-Factor App
+### Twelve-Factor App (1/2)
 
 1. One **codebase** in version control
 2. Declare and isolate **dependencies**
@@ -176,10 +186,10 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ---
 
-### Twelve-Factor App
+### Twelve-Factor App (2/2)
 
 7. Export services via **port binding**
-8.  **Scale out** via the process model
+8. **Scale out** via the process model
 9. Fast **startup** and graceful **shutdown**
 10. Keep **dev, staging, and production** as similar as possible
 11. Treat **logs** as events treams
@@ -197,7 +207,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ---
 
-### Continous Integration
+### What Is Continous Integration?
 
 Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
 
@@ -207,7 +217,7 @@ By integrating regularly, you can detect errors quickly, and locate them more ea
 
 ---
 
-### Continuous Delivery
+### What Is Continuous Delivery?
 
 Continuous Delivery (CD) is the ability to get changes of all types—including new features, configuration changes, bug fixes and experiments—into production, or into the hands of users, safely and quickly in a sustainable way.
 
@@ -300,7 +310,7 @@ Infrastructure as Code (IaC) means writing code (which can be done using a high 
 
 ---
 
-### What is GitOps?
+### What Is GitOps?
 
 - Declarative deployments
 - Git as the central source of truth
@@ -502,8 +512,8 @@ It is a platform designed to manage the lifecycle of containerized applications 
 ### whoami
 
 - Johann Gyger
-- Passionate software engineer
-- Twitter: [@johanngyger](https://twitter.com/johanngyger)
+- Passionate Software Engineer
+- Twitter [@johanngyger](https://twitter.com/johanngyger)
 - Consultant at [Levingo](https://levingo.ch/)
 - Trainer at [acend](https://acend.ch/)
 - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
@@ -513,10 +523,11 @@ It is a platform designed to manage the lifecycle of containerized applications 
 ## Books
 
 - [Continuous Delivery](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/) — Reliable software releases through build, test, and deployment Automation
-- [Site Reliability Engineering](https://learning.oreilly.com/library/view/site-reliability-engineering/9781491929117/) — How Google Runs Production Systems
-- [Release It!](https://learning.oreilly.com/library/view/release-it-2nd/9781680504552/) — Design and deploy production-ready software
+- [Site Reliability Engineering](https://learning.oreilly.com/library/view/site-reliability-engineering/9781491929117/) — How Google runs production systems
+- [Release It!](https://learning.oreilly.com/library/view/release-it-2nd/9781680504552/) — Design and deploy production-ready software
 - [Infrastructure as Code](https://learning.oreilly.com/library/view/infrastructure-as-code/9781098114664/) — Dynamic systems for the cloud age
-- [Building Microservices](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/) — Designing fine-grained systems
+- [Building Microservices](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/) — Designing fine-grained systems
+- [Terraform: Up & Running](https://learning.oreilly.com/library/view/terraform-up/9781492046899/) — Writing infrastructure as code
 
 ---
 
