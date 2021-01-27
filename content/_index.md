@@ -3,15 +3,19 @@ title = "On Software Engineering"
 outputs = ["Reveal"]
 +++
 
+{{% section %}}
+
 # On Software Engineering
 
 ---
 
-{{% section %}}
+<https://on-sw-eng.netlify.app>
+
+---
 
 ## Start With Why
 
-- I ❤️ software engineering
+- I love software engineering
 - Deliver value
 - Experience knowledge
 
@@ -40,7 +44,11 @@ outputs = ["Reveal"]
 
 ## DevOps
 
-<img src="images/devops_loop.png" height="470">
+---
+
+## DevOps Loop
+
+<img src="images/devops_loop.png" height="450">
 
 <sup><sup>[image credits](https://medium.com/@mainakdutta76/before-and-after-of-devops-a-peek-into-agile-devops-3600c26129ac)</sup></sup>
 
@@ -56,7 +64,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ### DevOps Compared
 
-<img src="images/devops_compared.png" height="500">
+<img src="images/devops_compared.png" height="470">
 
 <sup><sup>[image credits](https://dzone.com/articles/continuous-delivery-a-step-up-from-continuous-inte)</sup></sup>
 
@@ -122,7 +130,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ### Internet Unicorn: Spotify
 
-<img src="images/spotify_model.png" height="500">
+<img src="images/spotify_model.png" height="470">
 
 <sup><sup>[image credits](https://agilescrumgroup.de/spotify-modell/)</sup></sup>
 
@@ -140,7 +148,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ### Meanwhile in corporate land ...
 
-<img src="images/safe.png" height="500">
+<img src="images/safe.png" height="470">
 
 <sup><sup><https://www.scaledagileframework.com></sup></sup>
 
@@ -156,7 +164,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ### Microservices
 
-<img src="images/microservices.png" height="500">
+<img src="images/microservices.png" height="470">
 
 <sup><sup>[image credits](https://www.redhat.com/en/topics/microservices/what-are-microservices)</sup></sup>
 
@@ -192,7 +200,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 8. **Scale out** via the process model
 9. Fast **startup** and graceful **shutdown**
 10. Keep **dev, staging, and production** as similar as possible
-11. Treat **logs** as events treams
+11. Treat **logs** as events streams
 12. **Admin processes** as one-off processes
 
 <sup><sup><https://12factor.net></sup></sup>
@@ -201,7 +209,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ### Continuous Integration
 
-<img src="images/continuous_integration.jpg" height="500">
+<img src="images/continuous_integration.jpg" height="470">
 
 <sup><sup>[image credits](https://geekflare.com/understanding-ci-cd/)</sup></sup>
 
@@ -211,7 +219,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
 
-By integrating regularly, you can detect errors quickly, and locate them more easily
+By integrating regularly, you can detect errors quickly and locate them more easily
 
 <sup><sup><https://www.thoughtworks.com/continuous-integration></sup></sup>
 
@@ -219,7 +227,7 @@ By integrating regularly, you can detect errors quickly, and locate them more ea
 
 ### What Is Continuous Delivery?
 
-Continuous Delivery (CD) is the ability to get changes of all types—including new features, configuration changes, bug fixes and experiments—into production, or into the hands of users, safely and quickly in a sustainable way.
+Continuous Delivery (CD) is the ability to get changes of all types—including new features, configuration changes, bug fixes, and experiments—into production, or into the hands of users, safely and quickly in a sustainable way.
 
 <sup><sup><https://continuousdelivery.com></sup></sup>
 
@@ -227,7 +235,7 @@ Continuous Delivery (CD) is the ability to get changes of all types—including 
 
 ### Benefits of Continuous Delivery
 
-- Low risk releases
+- Low-risk releases
 - Faster time to market
 - Higher quality
 - Lower costs
@@ -238,7 +246,7 @@ Continuous Delivery (CD) is the ability to get changes of all types—including 
 
 ### Deployment Pipeline
 
-<img src="images/deployment_pipeline.png" height="500">
+<img src="images/deployment_pipeline.png" height="470">
 
 <sup><sup>[image credits](https://continuousdelivery.com/implementing/patterns/)</sup></sup>
 
@@ -255,7 +263,7 @@ Continuous Delivery (CD) is the ability to get changes of all types—including 
 
 ### Continuous Deployment
 
-<img src="images/continuous_deployment.png" height="500">
+<img src="images/continuous_deployment.png" height="470">
 
 <sup><sup>[image credits](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)</sup></sup>
 
@@ -263,7 +271,7 @@ Continuous Delivery (CD) is the ability to get changes of all types—including 
 
 ### Infrastructure as Code
 
-<img src="images/iac_terraform.png" height="500">
+<img src="images/iac_terraform.png" height="470">
 
 <sup><sup>[image credits](https://www.terraform.io/)</sup></sup>
 
@@ -304,7 +312,7 @@ Infrastructure as Code (IaC) means writing code (which can be done using a high 
 
 ### GitOps
 
-<img src="images/gitops_circles.png" height="500">
+<img src="images/gitops_circles.png" height="470">
 
 <sup><sup>[image credits](https://www.weave.works/blog/what-is-gitops-really)</sup></sup>
 
@@ -323,7 +331,7 @@ Infrastructure as Code (IaC) means writing code (which can be done using a high 
 
 ### Chaos Engineering
 
-<img src="images/simianarmy.jpg" height="500">
+<img src="images/simianarmy.jpg" height="470">
 
 <sup><sup>[image credits](<https://en.wikipedia.org/wiki/Chaos_engineering>)</sup></sup>
 
@@ -347,7 +355,7 @@ Infrastructure as Code (IaC) means writing code (which can be done using a high 
 
 ### Cloud Native
 
-<img src="images/cloud_native.png" height="500">
+<img src="images/cloud_native.png" height="470">
 
 <sup><sup>[image credits](https://learning.oreilly.com/library/view/cloud-native-transformation/9781492048893/assets/cntr_0101.png)</sup></sup>
 
@@ -373,7 +381,7 @@ The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this
 
 ### Cloud Native Landscape
 
-<img src="images/cncf_landscape.png" height="500">
+<img src="images/cncf_landscape.png" height="470">
 
 <sup><sup><https://landscape.cncf.io></sup></sup>
 
@@ -381,7 +389,7 @@ The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this
 
 ### Cloud Native Trail Map
 
-<img src="images/cncf_trail_map.png" height="500">
+<img src="images/cncf_trail_map.png" height="470">
 
 <sup><sup><https://github.com/cncf/trailmap></sup></sup>
 
@@ -389,7 +397,7 @@ The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this
 
 ## Observability
 
-<img src="images/observability.png" height="480">
+<img src="images/observability.png" height="450">
 
 <sup><sup>[image credits](https://peter.bourgon.org/blog/2017/02/21/metrics-tracing-and-logging.html)</sup></sup>
 
@@ -405,7 +413,7 @@ The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this
 
 ### Logging
 
-<img src="images/kibana.png" height="500">
+<img src="images/kibana.png" height="470">
 
 <sup><sup>[image credits](https://www.elastic.co/de/blog/making-kibana-accessible)</sup></sup>
 
@@ -419,7 +427,7 @@ The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this
 
 ### Metrics
 
-<img src="images/grafana.png" height="500">
+<img src="images/grafana.png" height="470">
 
 <sup><sup>[image credits](https://strimzi.io/docs/master/#kafka_dashboard)</sup></sup>
 
@@ -433,7 +441,7 @@ The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this
 
 ### Tracing
 
-<img src="images/kiali.webp" height="500">
+<img src="images/kiali.webp" height="470">
 
 <sup><sup>[image credits](https://www.magalix.com/blog/working-with-istio-track-your-services-with-kiali)</sup></sup>
 
@@ -447,7 +455,7 @@ The **Cloud Native Computing Foundation (CNCF)** seeks to drive adoption of this
 
 ### Containers (Docker)
 
-<img src="images/containers.png" height="500">
+<img src="images/containers.png" height="470">
 
 <sup><sup>[image credits](https://www.docker.com/resources/what-container)</sup></sup>
 
@@ -491,7 +499,7 @@ It is a platform designed to manage the lifecycle of containerized applications 
 
 ### Service Mesh
 
-<img src="images/service_mesh.png" height="500">
+<img src="images/service_mesh.png" height="470">
 
 <sup><sup>[image credits](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)</sup></sup>
 
@@ -499,8 +507,8 @@ It is a platform designed to manage the lifecycle of containerized applications 
 
 ### What Is a Service Mesh?
 
-- Traffic control: service discovery, routing, load balancing, circuit breaking, traffic splitting, fault injection, ...
-- Security: zero trust networking, mutual auth (mTLS), RBAC, dynamic policies, rate limiting (DoS), ...
+- Traffic control: service discovery, routing, load balancing, circuit breaking, traffic splitting, fault injection, etc.
+- Security: zero-trust networking, mutual auth (mTLS), RBAC, dynamic policies, rate limiting (DoS), etc.
 - Observability: metrics (golden signals), distributed traces, access logs
 
 {{% /section %}}
@@ -516,17 +524,24 @@ It is a platform designed to manage the lifecycle of containerized applications 
 - Twitter [@johanngyger](https://twitter.com/johanngyger)
 - Consultant at [Levingo](https://levingo.ch/)
 - Trainer at [acend](https://acend.ch/)
+- Organizer of [Cloud Native Bern Meetup](https://www.meetup.com/cloudnativebern)
+- Organizer of [Swiss Cloud Native Day](https://cloudnativeday.ch)
 - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
 
 ---
 
-## Books
+## Books (1/2)
 
 - [Continuous Delivery](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/) — Reliable software releases through build, test, and deployment Automation
-- [Site Reliability Engineering](https://learning.oreilly.com/library/view/site-reliability-engineering/9781491929117/) — How Google runs production systems
 - [Release It!](https://learning.oreilly.com/library/view/release-it-2nd/9781680504552/) — Design and deploy production-ready software
-- [Infrastructure as Code](https://learning.oreilly.com/library/view/infrastructure-as-code/9781098114664/) — Dynamic systems for the cloud age
+- [Site Reliability Engineering](https://learning.oreilly.com/library/view/site-reliability-engineering/9781491929117/) — How Google runs production systems
+
+---
+
+## Books (2/2)
+
 - [Building Microservices](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/) — Designing fine-grained systems
+- [Infrastructure as Code](https://learning.oreilly.com/library/view/infrastructure-as-code/9781098114664/) — Dynamic systems for the cloud age
 - [Terraform: Up & Running](https://learning.oreilly.com/library/view/terraform-up/9781492046899/) — Writing infrastructure as code
 
 ---
