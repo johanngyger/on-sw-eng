@@ -7,6 +7,8 @@ outputs = ["Reveal"]
 
 # On Software Engineering
 
+in the Cloud Era
+
 ---
 
 <https://on-sw-eng.netlify.app>
@@ -15,9 +17,22 @@ outputs = ["Reveal"]
 
 ## Start With Why
 
-- I love software engineering
+- I ❤️ software engineering
 - Deliver value
 - Experience knowledge
+
+---
+
+### whoami
+
+- Johann Gyger
+- Passionate Software Engineer
+- Twitter [@johanngyger](https://twitter.com/johanngyger)
+- Consultant at [Levingo](https://levingo.ch/)
+- Trainer at [acend](https://acend.ch/)
+- Cloud Native Ambassador at [CNCF](https://www.cncf.io/people/ambassadors/)
+- Organizer of [Cloud Native Bern Meetup](https://www.meetup.com/cloudnativebern)
+- Organizer of [Swiss Cloud Native Day](https://cloudnativeday.ch)
 
 ---
 
@@ -74,8 +89,8 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 - Culture
 - Automation
-- Measurement
 - Lean
+- Measurement
 - Sharing
 
 ---
@@ -517,22 +532,9 @@ It is a platform designed to manage the lifecycle of containerized applications 
 
 {{% section %}}
 
-### whoami
-
-- Johann Gyger
-- Passionate Software Engineer
-- Twitter [@johanngyger](https://twitter.com/johanngyger)
-- Consultant at [Levingo](https://levingo.ch/)
-- Trainer at [acend](https://acend.ch/)
-- Organizer of [Cloud Native Bern Meetup](https://www.meetup.com/cloudnativebern)
-- Organizer of [Swiss Cloud Native Day](https://cloudnativeday.ch)
-- [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
-
----
-
 ## Books (1/2)
 
-- [Continuous Delivery](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/) — Reliable software releases through build, test, and deployment Automation
+- [Continuous Delivery](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/) — Reliable software releases through build, test, and deployment automation
 - [Release It!](https://learning.oreilly.com/library/view/release-it-2nd/9781680504552/) — Design and deploy production-ready software
 - [Site Reliability Engineering](https://learning.oreilly.com/library/view/site-reliability-engineering/9781491929117/) — How Google runs production systems
 
