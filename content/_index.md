@@ -11,6 +11,8 @@ in the Cloud Era
 
 ---
 
+## Presentation Link
+
 <https://on-sw-eng.netlify.app>
 
 ---
@@ -31,8 +33,8 @@ in the Cloud Era
 - Consultant at [Levingo](https://levingo.ch/)
 - Trainer at [acend](https://acend.ch/)
 - Cloud Native Ambassador at [CNCF](https://www.cncf.io/people/ambassadors/)
-- Organizer of [Cloud Native Bern Meetup](https://www.meetup.com/cloudnativebern)
-- Organizer of [Swiss Cloud Native Day](https://cloudnativeday.ch)
+- Organizer of [cloudnativebern](https://www.meetup.com/cloudnativebern) Meetup
+- Organizer of [cloudnativeday.ch](https://cloudnativeday.ch)
 
 ---
 
@@ -69,9 +71,9 @@ in the Cloud Era
 
 ---
 
-### What is DevOps?
+### What Is DevOps?
 
-DevOps is the combination of **cultural philosophies, practices, and tools** that increases an organization’s ability to **deliver applications and services at high velocity**: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market.
+DevOps is the combination of **cultural philosophies, practices, and tools** that increases an organization's ability to **deliver applications and services at high velocity**: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market.
 
 <sup><sup><https://aws.amazon.com/devops/what-is-devops/></sup></sup>
 
@@ -161,7 +163,7 @@ DevOps is the combination of **cultural philosophies, practices, and tools** tha
 
 ---
 
-### Meanwhile in corporate land ...
+### Meanwhile in Corporate Land
 
 <img src="images/safe.png" height="470">
 
@@ -354,7 +356,7 @@ Infrastructure as Code (IaC) means writing code (which can be done using a high 
 
 ### What Is Chaos Engineering?
 
-> Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.
+> Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system's capability to withstand turbulent conditions in production.
 
 <sup><sup><https://principlesofchaos.org></sup></sup>
 
@@ -532,21 +534,29 @@ It is a platform designed to manage the lifecycle of containerized applications 
 
 {{% section %}}
 
-## Books (1/2)
+## Books
 
 - [Continuous Delivery](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/) — Reliable software releases through build, test, and deployment automation
 - [Release It!](https://learning.oreilly.com/library/view/release-it-2nd/9781680504552/) — Design and deploy production-ready software
 - [Site Reliability Engineering](https://learning.oreilly.com/library/view/site-reliability-engineering/9781491929117/) — How Google runs production systems
-
----
-
-## Books (2/2)
-
 - [Building Microservices](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/) — Designing fine-grained systems
 - [Infrastructure as Code](https://learning.oreilly.com/library/view/infrastructure-as-code/9781098114664/) — Dynamic systems for the cloud age
 - [Terraform: Up & Running](https://learning.oreilly.com/library/view/terraform-up/9781492046899/) — Writing infrastructure as code
 
 ---
+
+## acend Trainings
+
+- [Container & Kubernetes Basics](https://acend.ch/trainings/container-kubernetes-basic/)
+- [Prometheus Basics](https://acend.ch/trainings/prometheus/)
+- [Helm Basics](https://acend.ch/trainings/helm/)
+- [OpenShift 4 Operations Advanced](https://acend.ch/trainings/openshift4ops/)
+
+10% Voucher Code: **ACEND4DIN21**
+
+---
+
+## Presentation Source
 
 <https://github.com/johanngyger/on-sw-eng>
 
