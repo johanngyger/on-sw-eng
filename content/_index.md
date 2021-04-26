@@ -30,7 +30,7 @@ in the Cloud Era
 - Johann Gyger
 - Passionate Software Engineer
 - Twitter [@johanngyger](https://twitter.com/johanngyger)
-- Consultant at [Levingo](https://levingo.ch/)
+- Cloud Consultant at [Levingo](https://levingo.ch/)
 - Trainer at [acend](https://acend.ch/)
 - Cloud Native Ambassador at [CNCF](https://www.cncf.io/people/ambassadors/)
 - Organizer of [cloudnativebern](https://www.meetup.com/cloudnativebern) Meetup
@@ -314,7 +314,7 @@ Infrastructure as Code (IaC) means writing code (which can be done using a high 
 
 - [git-flow](https://github.com/nvie/gitflow)
 - [Trunk based development](https://trunkbaseddevelopment.com/)
-- [Comparison](https://www.toptal.com/software/trunk-based-development-git-flow>)
+- [Comparison](https://www.toptal.com/software/trunk-based-development-git-flow)
 
 ---
 
@@ -548,6 +548,7 @@ It is a platform designed to manage the lifecycle of containerized applications 
 ## acend Trainings
 
 - [Container & Kubernetes Basics](https://acend.ch/trainings/container-kubernetes-basic/)
+- [Container & OpenShift Basics](https://acend.ch/trainings/openshift/)
 - [Prometheus Basics](https://acend.ch/trainings/prometheus/)
 - [Helm Basics](https://acend.ch/trainings/helm/)
 - [OpenShift 4 Operations Advanced](https://acend.ch/trainings/openshift4ops/)
@@ -559,5 +560,10 @@ It is a platform designed to manage the lifecycle of containerized applications 
 ## Presentation Source
 
 <https://github.com/johanngyger/on-sw-eng>
+
+
+---
+
+## Thank You!
 
 {{% /section %}}
